@@ -80,6 +80,153 @@ const questions = [
         },
       ]
     },
+    {
+      "question": "Qual linguagem de programação é conhecida por ser usada principalmente para desenvolvimento front-end de websites?",
+      "answers": [
+        {
+          "answer": "Python",
+          "correct": false
+        },
+        {
+          "answer": "Ruby",
+          "correct": false
+        },
+        {
+          "answer": "JavaScript",
+          "correct": true
+        },
+        {
+          "answer": "C++",
+          "correct": false
+        },
+      ]
+    },
+    {
+      "question": "O que HTML representa?",
+      "answers": [
+        {
+          "answer": "Hyper Text Markup Language",
+          "correct": true
+        },
+        {
+          "answer": "High-Level Text Machine Language",
+          "correct": false
+        },
+        {
+          "answer": "Hyper Transfer Markup Language",
+          "correct": false
+        },
+        {
+          "answer": "Home Tool Markup Language",
+          "correct": false
+        },
+      ]
+    },
+    {
+      "question": "Qual desses frameworks é usado para desenvolvimento de aplicativos móveis multiplataforma?",
+      "answers": [
+        {
+          "answer": "Angular",
+          "correct": false
+        },
+        {
+          "answer": "React",
+          "correct": false
+        },
+        {
+          "answer": "Vue",
+          "correct": false
+        },
+        {
+          "answer": "Flutter",
+          "correct": true
+        },
+      ]
+    },
+    {
+      "question": "Qual é a linguagem de consulta usada para acessar e manipular bancos de dados relacionais?",
+      "answers": [
+        {
+          "answer": "HTML",
+          "correct": false
+        },
+        {
+          "answer": "JavaScript",
+          "correct": false
+        },
+        {
+          "answer": "SQL",
+          "correct": true
+        },
+        {
+          "answer": "CSS",
+          "correct": false
+        },
+      ]
+    },
+    {
+      "question": "O que CSS representa em desenvolvimento web?",
+      "answers": [
+        {
+          "answer": "Cascading Style Sheet",
+          "correct": true
+        },
+        {
+          "answer": "Computer Style Sheet",
+          "correct": false
+        },
+        {
+          "answer": "Creative Style Sheet",
+          "correct": false
+        },
+        {
+          "answer": "Colorful Style Sheet",
+          "correct": false
+        },
+      ]
+    },
+    {
+      "question": "Qual das seguintes linguagens é conhecida por ser uma linguagem de programação orientada a objetos?",
+      "answers": [
+        {
+          "answer": "PHP",
+          "correct": false
+        },
+        {
+          "answer": "Ruby",
+          "correct": true
+        },
+        {
+          "answer": "Swift",
+          "correct": false
+        },
+        {
+          "answer": "SQL",
+          "correct": false
+        },
+      ]
+    },
+    {
+      "question": "Qual é o formato de dados amplamente usado para representar informações estruturadas em uma página web?",
+      "answers": [
+        {
+          "answer": "JSON",
+          "correct": true
+        },
+        {
+          "answer": "XML",
+          "correct": false
+        },
+        {
+          "answer": "YAML",
+          "correct": false
+        },
+        {
+          "answer": "CSV",
+          "correct": false
+        },
+      ]
+    },
   ]
 
 // Substituição do quizz para a primeira pergunta
